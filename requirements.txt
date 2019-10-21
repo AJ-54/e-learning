@@ -257,7 +257,7 @@ python-swiftclient==3.4.0
 pytimeparse==1.1.7
 pytz==2017.3
 PyWavelets==0.5.2
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==16.0.3
 qtconsole==4.3.1
 raven==6.4.0

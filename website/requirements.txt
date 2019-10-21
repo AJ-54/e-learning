@@ -57,7 +57,7 @@ django-crispy-forms==1.7.2
 django-debug-toolbar==1.9.1
 django-extensions==1.9.8
 django-registration-redux==1.4
-djangorestframework==3.7.3
+djangorestframework==3.9.1
 docker-py==1.10.6
 docker-pycreds==0.2.1
 docopt==0.6.2
